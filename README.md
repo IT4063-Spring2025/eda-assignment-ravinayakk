@@ -51,32 +51,32 @@ You'll also find some tips and links to documentations that will help you comple
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned about pandas more in-depth creating plots and stats like mean and median.
 
 **I struggled with:** (repeat as needed)
-- .
+- I struggled mostly near the end with finding the missing values and creating plots with them.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- I needed the instructor to help me understand what alpha does in the scatter plots.
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+[2] hours.
 
 **How often did you have to check the solution to the problem? How do you feel about that?**
-
+There was no solutions, I kind of liked that because I was able to test what I know but was unable to check. Which is fine because the output shows if I was correct or not. 
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- If I were to do this again I would review more of the pandas commands with dealing with plotting. 
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I used some documentation about pandas syntax and commands. 
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- I received help from Prof. Zaman.
 
 ---
 ## Copyrights and License
